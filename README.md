@@ -31,5 +31,5 @@ It includes game logic, win detection, and a simple interactive interface.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/TicTacToe-Java-AWT.git
+git clone https://github.com/Manikanta-799/TicTacToe-Java-AWT.git
 cd TicTacToe-Java-AWT
